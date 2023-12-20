@@ -1,0 +1,318 @@
+.sh {
+    width: 1700px;
+    height: 1200px;
+    /* background-color: red; */
+    margin: 0 auto;
+
+}
+
+.gh {
+    width: 2090px;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-image: url(./Highlight-Hero-Windows11-GlobalLaunch_VP5-1920x600.jpg);
+    position: relative;
+    top: 100px;
+    left: -100px;
+}
+
+.yu {
+    width: 2000px;
+    height: 60px;
+    /* background-color: aqua; */
+    position: relative;
+    top: -907px;
+    left: -100px;
+}
+
+.yu img {
+    margin-left: 200px;
+    margin-top: 5px;
+}
+
+.k {
+    width: 400px;
+    height: 60px;
+    padding: 5px 12px;
+    margin-top: -40px;
+    margin-left: 330px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 10px;
+}
+
+.l {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1480px;
+    margin-top: -65px;
+
+
+
+}
+
+.sd {
+    width: 2000px;
+    height: 60px;
+    background-color: rgb(17, 111, 200);
+    position: relative;
+    top: -907px;
+    left: -100px;
+    text-align: center;
+    color: aliceblue;
+    line-height: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.o {
+    margin-left: -200px;
+    margin-top: -18px;
+}
+
+.h {
+    margin-left: 90px;
+    margin-top: -17px;
+}
+
+.p {
+    margin-left: 198px;
+    margin-top: -17px;
+}
+
+.cv {
+    width: 450px;
+    position: relative;
+    top: -720px;
+    left: 60px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dr {
+    position: relative;
+    top: -700px;
+    left: 60px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.yt {
+    width: 200px;
+    height: 20px;
+    background-color: rgb(17, 111, 200);
+    padding: 10px;
+    color: aliceblue;
+    position: relative;
+    top: -680px;
+    left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.xdf {
+    width: 400px;
+    height: 300px;
+    background-image: url(./Highlight-Hero-Windows11-GlobalLaunch_VP5-1920x600.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -410px;
+    left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.a {
+    position: relative;
+    top: 230px;
+
+}
+
+.m {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 240px;
+}
+
+.drd {
+    position: relative;
+    top: 25px;
+}
+
+.jik {
+    width: 400px;
+    height: 300px;
+    background-image: url(./gldn-Soft-CP-OneDriveCampaignRefresh-2.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -710px;
+    left: 440PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.jn {
+    position: relative;
+    top: 230px;
+}
+
+.lopk {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 240px;
+}
+
+.oyufg {
+    position: relative;
+    top: 25px;
+}
+
+.yfsisav {
+    width: 400px;
+    height: 300px;
+    background-image: url(./Content-Card-PC-SMB-OneNote.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1010px;
+    left: 850px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.vbbsb {
+    position: relative;
+    top: 230px;
+}
+
+.nnnjj {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 240px;
+}
+
+.njki {
+    width: 400px;
+    height: 300px;
+    background-image: url(./Content-Card-PC-Bing.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1310px;
+    left: 1260px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.olistd {
+    position: relative;
+    top: 230px;
+}
+
+.iysfgf {
+    width: 420px;
+    height: 300px;
+    position: relative;
+    top: 240px;
+}
+.jbxsg{
+    width: 1700px;
+    height: 1100px;
+    background-image: url(./gldn-Hero-MSCOM-Outlook-iOS-Android_VP5-1596x600.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1140px;
+    left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hfdir{
+    position: relative;
+    top: 230px;
+    left: 150px;
+
+}
+.hhuhuyh{
+    position: relative;
+    top: 245px;
+    left: 150px;
+
+}
+.hgbs{
+    width: 55px;
+    height: 20px;
+    background-color: rgb(17, 111, 200);
+    padding: 10px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 260px;
+    left: 150px;
+}
+.jjjjj{
+    position: relative;
+    top: -1550px;
+    left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hsdhowjdow0w{
+    width: 400px;
+    height: 300px;
+    background-image: url(./Content-Card-Windows-11-Business.jfif);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1550px;
+    left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.jpjdfuid{
+    position: relative;
+    top: 230px;
+
+}
+.jjsii{
+    position: relative;
+    top: 275px;
+}
+.howie{
+    width: 400px;
+    height: 300px;
+    background-image: url(./gldn-CP-Microsoft-Teams-Commercial.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1850px;
+    left: 440px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.olkh{
+    position: relative;
+    top: 230px;
+}
+.bbbbbb{
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: 210px;
+}
+.dfrut{
+    position: relative;
+    top: 250px;
+}
+.knboe{
+    position: relative;
+    top: 260px;
+}
+.hg{
+    width: 400px;
+    height: 300px;
+    background-image: url(./Content-Card-Visual-Studio-Icon.webp);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1850px;
+    left: 440px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.row{
+    width: 255px;
+height: 335px;
+top: 780px;
+left: 450px;
+
+}
